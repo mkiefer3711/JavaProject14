@@ -1,0 +1,12 @@
+Name: Adam Hill
+Address: 8753 Turn Rd, New York
+GPA: 3.6
+Name: John Smith
+Address: 5555 Franklin Ave, Florida
+GPA: 3.4
+Name: Maddison Kiefer
+Address: 1234 Parkdale, Michigan
+GPA: 3.9
+Name: Taylor Kargus
+Address: 0784 Hees St, California
+GPA: 3.1
